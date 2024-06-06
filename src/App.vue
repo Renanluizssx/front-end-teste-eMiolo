@@ -2,8 +2,8 @@
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link>
-      <router-link to="/planet">Planet</router-link>
-      <router-link to="/person">Person</router-link>
+      <router-link to="/planet">Person</router-link>
+      <router-link to="/person">Planet</router-link>
       <router-link to="/users">Users</router-link>
     </nav>
     <router-view></router-view>
